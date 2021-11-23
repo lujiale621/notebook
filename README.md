@@ -26,7 +26,7 @@ bam 自然语言理解的重生多任务。它支持与知识蒸馏相结合的B
 bangbang_qaoa  研究 Bang-bang 协议下的量子近似优化算法
 batch_science 测量数据并行性对神经网络训练的影响
 behavior_regularized_offline_rl 用于离线强化学习的行为正则化 Actor Critic
-*bigg 稀疏图的可扩展深度生成建模
+*bigg 稀疏图的可扩展深度生成建模 
 *bisimulation_aaai2020 在确定性马尔可夫决策过程中计算状态相似性的可扩展方法
 *bitempered_loss 基于 Bregman 分歧的鲁棒双调和逻辑损失
 blur 双向学习更新规则
